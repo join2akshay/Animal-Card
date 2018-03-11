@@ -1,0 +1,37 @@
+/* add your CSS here */
+.img
+{
+    width: 300px;
+    
+}
+
+
+.box1
+{
+   border: 1px solid #bbb;
+	padding:10px ;
+	width:315px;
+	box-shadow:6px 6px 4px 3px grey;
+}
+.inner-box
+{
+    border: 1px solid #bbb;
+	padding-left: 5px;
+    padding-right: 5px;
+	margin-left:1px;
+}
+.strong
+{
+    font-weight: bold;
+}
+
+#strong1
+{
+    font-weight: bold;
+     padding-left: 85px;
+}
+
+#fact
+{
+  font-style: italic;
+}
